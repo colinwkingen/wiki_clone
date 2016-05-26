@@ -1,0 +1,33 @@
+/*.sidebar {
+  padding: 0;
+  margin: 0;
+  width: 10%;
+  height:100%;
+  float: left;
+}
+
+.sidebar_link {
+  padding-top: 1px;
+}*/
+
+.main_column {
+  border-style: solid;
+
+}
+
+ul li {
+  display: block;
+}
+
+.column_1 {
+  background-color: #EeFdF6;
+  padding: 30px;
+  border: solid 2px white;
+}
+
+.column_2 {
+  background-color: #EdEfFf;
+  padding: 30px;
+  border: solid 2px white;
+
+}
