@@ -21,13 +21,33 @@ ul li {
 
 .column_1 {
   background-color: #EeFdF6;
-  padding: 30px;
+  padding: 5px;
   border: solid 2px white;
 }
 
 .column_2 {
   background-color: #EdEfFf;
-  padding: 30px;
+  padding: 5px;
   border: solid 2px white;
 
+}
+.blue_header {
+  background-color: #cdcfdf;
+  border: 1px solid #a3b0bf;
+  font-weight: bold;
+  margin: 5px;
+  padding: 5px;
+  font-size: 1.2em;
+}
+.green_header {
+  background-color: #C2F0E0;
+  border: 1px solid #a3b0bf;
+  font-weight: bold;
+  margin: 5px;
+  padding: 5px;
+  font-size: 1.2em;
+}
+
+p {
+  padding: 5px;
 }
